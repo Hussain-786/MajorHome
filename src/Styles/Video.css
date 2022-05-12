@@ -1,0 +1,25 @@
+.video {
+    background-color: #fff;
+    width: 100%;
+    height:  auto;
+    text-align: center;
+    line-height: 1.5rem;
+}
+
+.video-h1 {
+    padding: 4%;
+    font-size: 3rem;
+    font-weight: 400;
+    color: rgb(7, 7, 78);
+}
+
+.youtube {
+    height: 20rem;
+    width: 30rem;
+    padding: 0% 2% 2% 2%;
+}
+
+.video-para {
+    padding: 0% 3%;
+    font-size: 1rem;
+}

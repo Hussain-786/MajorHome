@@ -1,0 +1,34 @@
+.process-container {
+    text-align: center;
+    background-color: rgb(243, 73, 73);
+    margin: 0px 0px 0px 0px;
+    margin-left: 0px !important;
+    max-width: 100%;
+    padding: 1.5rem;
+}
+
+
+
+.process-h1 {
+    padding: 2% 4% 4% 4%;
+    font-size: 3rem;
+    font-weight: 400;
+    color: rgb(7, 7, 78);
+}
+
+
+.card-img{
+    border-radius: 100%;
+    padding-top: 2%;
+    height: 100px !important;
+    width: 100px !important;
+    border-radius: 50%;
+    line-height: 1rem;
+}
+
+.process-cards {
+    padding: 0.5%;
+    margin: 0 10% 10% 10%;
+    border-radius: 5%;
+}
+
